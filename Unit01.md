@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH013: Calculus AB"
+course_description: "This course emphasizes a multi-representational approach to calculus, with concepts, results, and problems being expressed graphically, numerically, analytically, and verbally. This course covers broad concepts and widely-applicable methods."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Functions, Graphs, and Limits** <span id="1"></span> 
 *This unit begins with a review of functions that should have been
 learned in a previous course. Specifically, we will examine the

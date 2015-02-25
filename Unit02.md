@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH013: Calculus AB"
+course_description: "This course emphasizes a multi-representational approach to calculus, with concepts, results, and problems being expressed graphically, numerically, analytically, and verbally. This course covers broad concepts and widely-applicable methods."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Derivatives** <span id="2"></span> 
 *In this unit, you will learn first the concept of a derivative by
 explaining it through limits. You will see that the limit definition and

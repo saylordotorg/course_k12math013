@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH013: Calculus AB"
+course_description: "This course emphasizes a multi-representational approach to calculus, with concepts, results, and problems being expressed graphically, numerically, analytically, and verbally. This course covers broad concepts and widely-applicable methods."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Integrals** <span id="3"></span> 
 *Integrals are the final unit in this course. In a similar way to
 derivatives, you will approach integrals first by learning their formal

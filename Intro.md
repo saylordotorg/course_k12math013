@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH013: Calculus AB"
+course_description: "This course emphasizes a multi-representational approach to calculus, with concepts, results, and problems being expressed graphically, numerically, analytically, and verbally. This course covers broad concepts and widely-applicable methods."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12MATH013: Calculus AB"
 ---------------------------------------------
 
